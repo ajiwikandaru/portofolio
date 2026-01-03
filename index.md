@@ -41,14 +41,15 @@ I am particularly interested in **product development, operations management, bu
 
 - **Infrastructure Works
   Building Maintenance in Prima Makmur
-  (assets/picture/infrastructure-projects.png)
-
-- **PET Bottle Recycling Traceability System**  
-  Developed during internship at GS1 Thailand  
+![infrastructure screenshot](assets/picture/infrastructure-projects.png)
 
 - **Production Efficiency Improvement**  
-  Cost, waste, and process optimization in packaging manufacturing  
+  Cost, waste, and process optimization in packaging manufacturing
+![production engineer screenshot](assets/picture/production-engineer-projects-bagmaking.png)
 
+- **PET Bottle Recycling Traceability System**  
+  Developed during internship at GS1 Thailand
+  
 ---
 
 ## 🎓 Education
