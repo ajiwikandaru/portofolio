@@ -63,6 +63,7 @@ Thesis: *Development of Warehouse Training Simulation in Virtual Reality*
 
 **Bachelor of Agroindustrial Technology** – Universitas Gadjah Mada  
 *2016 – 2020 | GPA 3.51*
+Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 
 ---
 
