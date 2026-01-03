@@ -43,8 +43,10 @@ I am particularly interested in **product development, operations management, bu
   Developed during internship at GS1 Thailand
 ![Tracebility concept Screenshot](assets/picture/traceability_concept_x_gs1_thailand.png)
 
-- **Infrastructure Works (2023)**
-  Building Maintenance in Prima Makmur
+- **PET Bottle Recycling Traceability System (2024)**  
+  Developed during internship at GS1 Thailand
+#- **Infrastructure Works (2023)**
+#  Building Maintenance in Prima Makmur
 ![infrastructure screenshot](assets/picture/infrastructure-projects.png)
 
 - **Production Engineer Efficiency Improvement (2022)**  
