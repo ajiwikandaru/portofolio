@@ -35,20 +35,23 @@ I am particularly interested in **product development, operations management, bu
 
 ## 🚀 Projects Documentation
 
-- **VR-based Warehouse Training Simulation**  
+- **VR-based Warehouse Training Simulation (2025)**  
   Master’s thesis project focusing on immersive learning for warehouse operations
 ![WMS VR Screenshot](assets/picture/wms-vr-ss1.png)
 
-- **Infrastructure Works**
+- **PET Bottle Recycling Traceability System (2024)**  
+  Developed during internship at GS1 Thailand
+![Tracebility concept Screenshot](assets/picture/Traceability Concept x GS1 Thailand.png)
+
+- **Infrastructure Works (2023)**
   Building Maintenance in Prima Makmur
 ![infrastructure screenshot](assets/picture/infrastructure-projects.png)
 
-- **Production Engineer Efficiency Improvement**  
+- **Production Engineer Efficiency Improvement (2022)**  
   Cost, waste, and process optimization in packaging manufacturing
 ![production engineer screenshot](assets/picture/production-engineer-projects-bagmaking.png)
 
-- **PET Bottle Recycling Traceability System**  
-  Developed during internship at GS1 Thailand
+
   
 ---
 
