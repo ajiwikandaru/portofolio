@@ -37,9 +37,9 @@ I am particularly interested in **product development, operations management, bu
 
 - **VR-based Warehouse Training Simulation**  
   Master’s thesis project focusing on immersive learning for warehouse operations
-  <video width="100%" controls>
-  <source src="assets/video/wms-vr-preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+
+<video width="100%" controls>
+  <source src="assets/video/WMS%20VR%20Preview.mp4" type="video/mp4">
 </video>
 
 - **PET Bottle Recycling Traceability System**  
