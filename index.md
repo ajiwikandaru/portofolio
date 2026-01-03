@@ -33,7 +33,7 @@ I am particularly interested in **product development, operations management, bu
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects Documentation
 
 - **VR-based Warehouse Training Simulation**  
   Master’s thesis project focusing on immersive learning for warehouse operations
