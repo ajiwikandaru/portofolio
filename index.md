@@ -55,7 +55,7 @@ I am particularly interested in **product development, operations management, bu
   Project Chiller
   ![production engineer screenshot](assets/picture/project-chiller.png)
 
-  - **Quality Improvement Officer at Timur Tengah Indonesia (2021)**  
+- **Quality Improvement Officer at Timur Tengah Indonesia (2021)**  
   Work instruction for food products
 ![quality improvement officer screenshot](assets/picture/food-formulation-timteng.png)
 ---
