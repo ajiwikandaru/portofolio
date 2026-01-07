@@ -45,15 +45,19 @@ I am particularly interested in **product development, operations management, bu
 
 - **Infrastructure Works (2023)**  
   Building Maintenance in Prima Makmur
-![infrastructure screenshot](assets/picture/infrastructure-projects.png)
+![infrastructure screenshot](assets/picture/infrastructure-project.png)
 
 - **Production Engineer Efficiency Improvement in Bagmaking Process (2022)**  
   Cost, waste, and process optimization in packaging manufacturing
-![production engineer screenshot](assets/picture/production-engineer-projects-bagmaking.png)
+![production engineer screenshot](assets/picture/bagmaking-project.png)
 
 - **Production Engineer Efficiency Improvement in Printing Process (2022)**  
   Project Chiller
   ![production engineer screenshot](assets/picture/project-chiller.png)
+
+  - **Quality Improvement Officer at Timur Tengah Indonesia (2021)**  
+  Work instruction for food products
+![quality improvement officer screenshot](assets/picture/food-formulation-timteng.png)
 ---
 
 ## 🎓 Education
