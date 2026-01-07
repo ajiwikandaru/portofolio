@@ -47,12 +47,13 @@ I am particularly interested in **product development, operations management, bu
   Building Maintenance in Prima Makmur
 ![infrastructure screenshot](assets/picture/infrastructure-projects.png)
 
-- **Production Engineer Efficiency Improvement (2022)**  
+- **Production Engineer Efficiency Improvement in Bagmaking Process (2022)**  
   Cost, waste, and process optimization in packaging manufacturing
 ![production engineer screenshot](assets/picture/production-engineer-projects-bagmaking.png)
 
-
-  
+- **Production Engineer Efficiency Improvement in Printing Process (2022)**  
+  Project Chiller
+  ![production engineer screenshot](assets/picture/project-chiller.png)
 ---
 
 ## 🎓 Education
