@@ -55,10 +55,7 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 - **VR-based Warehouse Training Simulation (2025)**  
   Master’s thesis project focusing on immersive learning for warehouse operations
 ![WMS VR Screenshot](assets/picture/wms-vr-ss1.png)
-<video width="600" controls>
-  <source src="{{ '/assets/video/wms-vr-preview.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://drive.google.com/file/d/1yM4qawLv7spUpnqurWVumkdblbLFZD2L/preview" width="640" height="360" allow="autoplay"></iframe>
 
 - **PET Bottle Recycling Traceability System (2024)**  
   Developed during internship at GS1 Thailand
