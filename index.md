@@ -33,6 +33,18 @@ I am particularly interested in **product development, operations management, bu
 
 ---
 
+## 🎓 Education
+
+**Master of Agroindustrial Technology** – Universitas Gadjah Mada  
+*2024 – 2025 | GPA 4.00*  
+Thesis: *Development of Warehouse Training Simulation in Virtual Reality*
+
+**Bachelor of Agroindustrial Technology** – Universitas Gadjah Mada  
+*2016 – 2020 | GPA 3.51*
+Thesis: *Development of Nitro Coffee With Pleasurable Needs*
+
+---
+
 ## 🚀 Projects Documentation
 
 - **VR-based Warehouse Training Simulation (2025)**  
@@ -65,26 +77,6 @@ I am particularly interested in **product development, operations management, bu
 ![quality improvement officer screenshot](assets/picture/food-formulation-timteng.png)
 ---
 
-## 🎓 Education
-
-**Master of Agroindustrial Technology** – Universitas Gadjah Mada  
-*2024 – 2025 | GPA 4.00*  
-Thesis: *Development of Warehouse Training Simulation in Virtual Reality*
-
-**Bachelor of Agroindustrial Technology** – Universitas Gadjah Mada  
-*2016 – 2020 | GPA 3.51*
-Thesis: *Development of Nitro Coffee With Pleasurable Needs*
-
----
-
-## 🛠 Skills
-
-**Technical:** Product Development, Data Analysis, Production Systems, Operations Management  
-**Tools:** Unity, SPSS, RStudio, Odoo ERP, Microsoft Office  
-**Soft Skills:** Leadership, Communication, Problem Solving  
-**Languages:** Indonesian, English  
-
----
 
 ## 📫 Contact
 
