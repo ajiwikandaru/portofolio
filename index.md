@@ -3,7 +3,7 @@ layout: default
 title: Aji Wikandaru
 ---
 
-## 👋 Hi, I’m Aji Wikandaru
+## 👋 Hello, I’m Aji Wikandaru
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/picture/profile-picture.png" alt="Profile Picture" style="width: 180px; border-radius: 8px;">
@@ -105,5 +105,5 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 
 ## 📫 Contact
 
-- 📧 Email: wikandaruaji@gmail.com  
+- 📧 Email: wikandaruaji@gmail.com  aji.wikandaru@mail.ugm.ac.id
 - 🔗 LinkedIn: [aji-wikandaru](https://www.linkedin.com/in/aji-wikandaru/)  
