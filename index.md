@@ -83,7 +83,7 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 ![Tracebility concept Screenshot](assets/picture/traceability_concept_x_gs1_thailand.png)
 
 - **Infrastructure Works (2023)**  
-  Building Maintenance in Prima Makmur
+  Some of my project in Building Maintenance 
 ![infrastructure screenshot](assets/picture/infrastructure-project.png)
 
 - **Production Engineer Efficiency Improvement in Bagmaking Process (2022)**  
