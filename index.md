@@ -9,7 +9,7 @@ title: Aji Wikandaru
   <img src="assets/picture/profile-picture.png" alt="Profile Picture" style="width: 180px; border-radius: 8px;">
   <div>
     <p>
-      An adaptive, fast learning, and systems-oriented person with a background in <strong>Agroindustrial Technology</strong> and experience </strong>across operations, continuous improvement, production, and warehousing</strong> . I combine </strong>analytical thinking</strong> with practical execution to design data-driven solutions that improve operational performance. I am particularly interested in </strong>continuous improvement, product development, business analysis, and virtual-based design</strong> as tools to drive collaborative and sustainable decision making.
+      An adaptive, fast-learning, and systems-oriented person with a background in <strong>Agroindustrial Technology</strong> and experience across <strong>operations, continuous improvement, production, and warehousing</strong>. I combine <strong>analytical thinking</strong> with practical execution to design data-driven solutions that improve operational performance. I am particularly interested in <strong>continuous improvement, product development, business analysis, and virtual-based design</strong> as tools to drive collaborative and sustainable decision-making.
       </p>
   </div>
 </div>
