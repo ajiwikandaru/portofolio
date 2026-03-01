@@ -80,27 +80,27 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 
 - **PET Bottle Recycling Traceability System (2024)**  
   Developed during internship at GS1 Thailand
-![Tracebility concept Screenshot](assets/picture/traceability_concept_x_gs1_thailand.png)
+![Tracebility concept Screenshot](assets/picture/5.gs1-project.png)
 
 - **Infrastructure Works (2023)**  
   Some of my project in Building Maintenance 
-![infrastructure screenshot](assets/picture/infrastructure-project.png)
+![infrastructure screenshot](assets/picture/6.infrastructure.png)
 
 - **Production Engineer Efficiency Improvement in Bagmaking Process (2022)**  
   Instruction of using bagmaking machine
-![production engineer screenshot](assets/picture/bagmaking-project.png)
+![production engineer screenshot](assets/picture/7.bagmaking.png)
 
 - **Production Engineer Efficiency Improvement in Printing Process (2022)**  
   Project Chiller
-  ![production engineer screenshot](assets/picture/project-chiller.png)
+  ![production engineer screenshot](assets/picture/8.printing.png)
 
 - **Quality Improvement Officer at Timur Tengah Indonesia (2021)**  
   Work instruction for food products
-![quality improvement officer screenshot](assets/picture/food-formulation-timteng.png)
+![quality improvement officer screenshot](assets/picture/9.granola.png)
 
 - **Product Development of Nitro Coffee (2020)**  
   Bachelor's thesis
- ![bachelor thesis](assets/picture/Nitro-coffee-rnd.png) 
+ ![bachelor thesis](assets/picture/10.skripsi.png) 
 ---
 
 
