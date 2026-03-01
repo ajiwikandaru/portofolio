@@ -73,7 +73,7 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 
 - **VR-based Warehouse Training Simulation (2025)**  
   Master’s thesis project focusing on immersive learning for warehouse operations
-![WMS VR Screenshot](assets/picture/4.vr-wms.png)
+![WMS VR Screenshot](assets/picture/4. vr-wms.png)
 <div style="text-align: center;">
   <iframe src="https://drive.google.com/file/d/1yM4qawLv7spUpnqurWVumkdblbLFZD2L/preview" width="640" height="360" allow="autoplay"></iframe>
 </div>
